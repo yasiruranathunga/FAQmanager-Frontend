@@ -3,7 +3,7 @@
 # Setup Instructions
 
 # 1. Clone the Repository:
-git clone repository-url
+git clone https://github.com/yasiruranathunga/FAQmanager-Frontend.git
 
 # 2. Install Dependencies:
 
